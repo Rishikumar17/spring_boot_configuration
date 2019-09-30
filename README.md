@@ -1,7 +1,7 @@
 # spring_boot_configuration
 This repository contains the configuration for connecting a spring boot application with MySQL database.
 
-#Steps for using this repository
+# Steps for using this repository
 1) Build the project to download its dependencies.
 2) Create the Database "Springboot"
 3) Use the database "use Springboot"
